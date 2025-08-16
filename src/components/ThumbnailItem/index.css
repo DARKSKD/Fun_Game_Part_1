@@ -1,0 +1,10 @@
+/* Write your code here. */
+.thumbNail {
+  padding: 10px;
+  height: 80px;
+  border-radius: 10px;
+}
+
+.active {
+  opacity: 0.5;
+}
